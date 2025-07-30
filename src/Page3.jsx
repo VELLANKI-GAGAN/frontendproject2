@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import './css/Page3.css'
 
-export default class t extends Component {
+export default class Page3 extends Component {
   render() {
     return (
       <div className='content'>

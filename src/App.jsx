@@ -16,6 +16,9 @@ function App() {
       <Link to="/Page2">Go To Page2</Link>
       <br/><br/><br/>
       <Link to="/Page3">Go To Page3</Link>
+      <br/><br/><br/>
+      <Link to="/Page4">Go To Page4</Link>
+
     </>
   )
 }

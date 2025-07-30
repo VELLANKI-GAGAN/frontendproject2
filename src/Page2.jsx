@@ -13,6 +13,8 @@ export default class Page2 extends Component {
         </div>
         <Link to="/page1">Go To Page1</Link>
         <br/><br/>
+        <Link to="/page3">Go To Page3</Link>
+        <br/><br/>
         <div className='link2'>
         <Link to="/">Go To Home Page</Link>
         </div>
