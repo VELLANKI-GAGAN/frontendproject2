@@ -14,7 +14,7 @@ export default class page4 extends Component {
                     <li>Services</li>
                     <li>Contact</li>
                 </ul>
-                <div className='menu' onClick={()=>this.menuClick()}>&#9776;</div>
+                <div className='menu' onClick={()=>this.menuClick()}>&#9786;</div>
             </nav>
         </header>
         <section>

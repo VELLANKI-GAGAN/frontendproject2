@@ -10,5 +10,10 @@ section{
 }
 
 footer{
-
+height: 30px;
+    line-height: 30px;
+    font-size: 8pt;
+    color: white;
+    background: linear-gradient(90deg, red 0%, blue 100%);
+    text-align: center;
 }
